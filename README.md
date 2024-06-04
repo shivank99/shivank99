@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shivank99
+- 👋 Hi, I’m @drxgon
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hust mail me at shivankchauhan899@gmail.com
 
